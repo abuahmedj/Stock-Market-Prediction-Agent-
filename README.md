@@ -10,5 +10,5 @@ A Sentiment Agent evaluates market sentiment using AI models
 A Decision Agent produces trading recommendations based on analysis
 
 This project was created as part of my first semester coursework to explore how autonomous AI agents can collaborate, reason, and maintain memory in a simple but practical system.
-
+In collabroation with Maaz-Siddiqui-28
 ⚠️ This project is for educational purposes only and is not financial advice. 
